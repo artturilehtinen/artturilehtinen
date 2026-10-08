@@ -5,8 +5,7 @@ M.Sc. Student in Data-Centric Engineering with a B.Sc. in Computational Science 
 ## 🚀 About Me
 - Master's student specializing in Data-Centric Engineering
 - Bachelor's degree in Computational Science & Artificial Intelligence
-- Interested in data analysis, machine learning & software quality
-- Focused on writing clean Python code and building reliable technical solutions
+- Interested in data analysis, machine learning & databases
 
 ## 🛠️ Skills & Tools
 - **Primary languages:** Python, SQL & MATLAB
